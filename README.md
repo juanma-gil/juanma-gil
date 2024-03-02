@@ -39,7 +39,7 @@
 
 ### Explora mis Repositorios 📂
 
-GitHub: [JuanManuel-Cloud](https://github.com/JuanManuel-Cloud)
+GitHub: [juanma-gil](https://github.com/JuanManuel-Cloud)
 
 Gitlab: [juan_gil](https://gitlab.com/juan_gil)
 
