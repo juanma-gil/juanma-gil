@@ -1,46 +1,7 @@
-### Resumen de Perfil 🚀
-
-¡Hola! Soy Juan Manuel, un apasionado desarrollador Android y Backend en InPunto, con una sólida formación en Ingeniería en Computación por la UNC. Actualmente, enfrento desafíos emocionantes que van desde el desarrollo de microservicios en Java y Kotlin hasta la orquestación de misiones satelitales como becario en CONAE/UNC, pasando por desarrollo de mobile en Android!
-
-### Trayectoria Profesional 💼
-
-📱💻 **InPunto - Android y Backend Developer**
-
-- Desarrollo y mantenimiento de backend con arquitectura de microservicios.
-- Liderazgo en dos proyectos de aplicaciones Android, desde diseño en Figma hasta implementación en Kotlin y Java (legacy code).
-- Colaboración activa en un equipo ágil con metodología Scrum, utilizando Jira y GitLab para la gestión de proyectos.
-
-### Proyecto Integrador 🎓
-
-🛠️ **Drones RoboMasterTT: Limitaciones y posibilidades en el mapeo de rutas de vuelo inteligente.**
-
-- Ingeniería inversa de drones DJI RMTT.
-- Implementación de un entorno de desarrollo escalable.
-- Modicación y optimización de una biblioteca del fabricante para control absoluto de drones, con enfoque en vuelo autónomo en entornos con poca luminosidad.
-- Desarrollo en C++.
-- Presentación exitosa de un paper en RPIC 2023.
-
-### Logros Universitarios 🎓
-
-🔧 **Proyectos Destacados**
-
-- Diseño e implementación en FPGA de un microprocesador MIPS de 32 bits desde cero, junto a Francisco Ciordia.
-- Desarrollo de un CRUD en Java para cabañas.
-- Proyectos en Java para sistemas paralelos y redes de Petri.
-- Programación de firmware en assembly y c para proyectos de electronica Digital.
-- Trabajo en sistemas operativos con implementación de funciones similares a sistemas UNIX en c, tales como una shell y algoritmos para la detección de recortes de una imagen en otra.
-
-### Inicios Profesionales 🚀
-
-👨‍💻 **Técnico Electrónico - IPET N°266 Ex ENET N°1**
-
-- Formación en instalaciones de CCTV, configuración de routers y cableado de redes.
-- Soporte técnico para PCs y notebooks durante la Formación para el Ambiente de Trabajo (F.A.T).
-
-### Explora mis Repositorios 📂
-
-GitHub: [juanma-gil](https://github.com/JuanManuel-Cloud)
-
-Gitlab: [juan_gil](https://gitlab.com/juan_gil)
-
-¡Estoy entusiasmado por seguir creciendo y enfrentar nuevos desafíos! Conectaté conmigo para compartir experiencias y oportunidades. 😃🚀
+Soy Ingeniero en Computación y actualmente trabajo como Team Lead en Moni, una fintech. Mi día a día está bastante repartido entre arquitectura, desarrollo y liderazgo técnico.
+En Moni me tocó liderar el rediseño de la app. Partíamos de una aplicación Android y una web con bastante legacy, y además necesitábamos sumar iOS. Probamos KMP, Flutter y React Native antes de quedarnos con React Native + Expo. La aplicación terminó usando una arquitectura basada en Feature-Sliced Design, buscando mantener bien separadas las responsabilidades y poder reutilizar código sin llevar la solución a una complejidad innecesaria para el tamaño del equipo.
+Además de mi trabajo en Moni, participé en distintos proyectos de backend y consultoría, principalmente con Java/Kotlin y Spring Boot. Ahí trabajé diseñando APIs y servicios, separando monolitos en microservicios, usando RabbitMQ para comunicación asincrónica y desplegando soluciones sobre AWS. Buena parte de esos proyectos estuvieron ligados a modernización de sistemas legacy: mover lógica fuera de stored procedures, reemplazar componentes antiguos y migrar sistemas de forma gradual sin tener que reescribir todo desde cero.
+En general me gustan los proyectos donde hay que pensar cómo organizar el sistema antes de empezar a sumar código. Que los límites entre módulos sean claros, que las decisiones tengan sentido para la escala real del producto y que alguien nuevo pueda entrar al repositorio sin necesitar un mapa para entender qué está pasando.
+Creo que la AI cambió bastante la forma en la que se construye software, y traté de incorporarla al proceso de desarrollo en lugar de usarla solo como una herramienta para generar código. Trabajo con Claude Code y OpenSpec, usando specs antes de implementar, contexto propio del repositorio y revisión del código generado. Lo que más me interesa es poder acortar ciclos de desarrollo, trabajar en varios problemas en paralelo y seguir manteniendo criterio técnico sobre lo que termina entrando al producto.
+También participo en la cátedra de Ingeniería de Software de Ingeniería en Computación en la UNC. Ahí trabajo principalmente con arquitectura, patrones de diseño, SOLID, testing, Git y el proyecto final de la materia.
+Me gusta estar cerca tanto de las decisiones de arquitectura como de la implementación, especialmente en productos donde backend, mobile, seguridad y negocio terminan cruzándose.
